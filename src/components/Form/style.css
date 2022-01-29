@@ -1,0 +1,18 @@
+.form-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.form-wrapper input,
+button {
+  margin: 5px;
+  padding: 8px 4px;
+
+  border: none;
+  outline: none;
+
+  background-color: rgb(194, 181, 241);
+
+  border-radius: 2px;
+}
